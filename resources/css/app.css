@@ -8,9 +8,9 @@ header {
 
 footer
 {
-    /* background-color: blueviolet; */
+    background-color: blue;
     padding: 3rem;
-    /* color: white; */
+    color: white;
     font-size: 2rem;
     text-align: center;
 }
