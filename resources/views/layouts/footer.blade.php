@@ -1,3 +1,3 @@
 <footer>
-    <h1>This is footer </h1>
+    <h1>This is footer - updated </h1>
 </footer>
